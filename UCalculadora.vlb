@@ -1,0 +1,10 @@
+﻿[]
+Coordinates=127,1,91,36
+
+[txt_Num1]
+Coordinates=10,10,44,58
+Visible=True
+
+[txt_Num2]
+Coordinates=64,10,44,58
+
